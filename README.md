@@ -1,5 +1,5 @@
-## React-Tailwind-LandingPage
-### Visit the website: https://react-tailwind-landingpage.netlify.app
+### React-Tailwind-LandingPage
+#### Visit the website: https://react-tailwind-landingpage.netlify.app
 This repository contains code for a static website built using React and Tailwind. It is responsive with various breakpoints
 
 ****
